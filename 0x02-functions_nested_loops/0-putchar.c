@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * main - Main function
- * Description:'Do my stuff'
  * Return: 0 mean succes
  */
 int main(void)
