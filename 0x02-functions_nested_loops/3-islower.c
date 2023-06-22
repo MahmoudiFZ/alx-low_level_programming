@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  *_islower - Do my stuff
- *@c: Character 
+ *@c: Character
  *Return: 1 lowercase character 0 rest
  */
 int _islower(int c)
@@ -15,4 +15,4 @@ int _islower(int c)
 		return (0);
 	}
 	_putchar('\n');
-}	
+}
